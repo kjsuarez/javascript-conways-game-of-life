@@ -1,0 +1,20 @@
+#container{
+   background-color:white;
+    width: 300px;
+  height: 300px;
+  border:solid;
+  margin: 0;
+  padding: 0;
+}
+li {
+   background-color:white;
+  display: inline-block;
+  width:100px;
+    height:100px;
+   margin-right: 0px;
+   outline: 1px solid black;
+}
+ li.active {
+    background: black;
+    
+  }
